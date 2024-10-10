@@ -1,0 +1,21 @@
+nav{
+background-color: bisque;
+color: black;
+height: 60px;
+}
+li{
+list-style: none;;
+
+}
+nav{
+    position: fixed;
+    
+    width: 100%;
+    top: 0;
+}
+ul{
+    display: flex;
+    gap: 20px;
+    float: right;
+    padding-right: 5%;
+}

@@ -1,0 +1,55 @@
+body {
+    font-family:'Times New Roman', Times, serif
+  }
+  
+  .resume-container {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .left-section {
+    flex: 1;
+    padding: 20px;
+    background-color:black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+  }
+  
+  .profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  .personal-details {
+    text-align: center;
+  }
+  
+  .right-section {
+    flex: 3;
+    padding: 20px;
+  }
+  
+  h2 {
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    padding: 7px 0;
+  }
+  
+  

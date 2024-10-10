@@ -1,0 +1,41 @@
+.insta{
+    background-color: lavender;
+    height: 50px;
+    width: 100%;
+    color: rgb(68, 2, 53);
+    font-style: italic;
+}
+.insta img{
+    height: 40px;
+    float: left;
+}
+.sign img{
+    height: 40px;
+    float: right;
+ }
+.Guitar1 {
+    float: left;
+    
+} 
+.Keyboard{
+    float: right;
+    padding-right: 700px;
+    width: 20%;
+}
+.footer{
+    bottom: 0% ;
+    position: fixed;
+    padding-left: 650px;
+   
+    
+}
+.Mus img{
+    float: right;
+    height: 200px;
+   padding-tp: 10%;
+   
+}
+.buton{
+    float: right;
+    padding-left: 80%;
+}
